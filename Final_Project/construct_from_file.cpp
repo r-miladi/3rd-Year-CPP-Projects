@@ -1,4 +1,4 @@
-// Rasheed Miladi (10297435): OOP in C++ Project
+// Rasheed Miladi: OOP in C++ Project
 // Experimental Data Management System
 // Implementation of contruct_from_file.h
 // Takes a file of event measurements and extracts the information, returning a data set.
