@@ -1,1 +1,1 @@
-# PHYS30762: Object-Oriented Programming in C++
+Object-Oriented Programming in C++
